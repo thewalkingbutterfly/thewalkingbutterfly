@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thewalkingbutterfly...<br />
+- 👋 Hi, I’m @thewalkingbutterfly🦋...<br />
 
 - 👀 I’m interested in everything code related for now... just a beginner tho... if we have to name it I would say a developer trainee.
 - 🌱 I’m currently learning Frontend Development on Codecademy, broadening my knowledge on SheCodes, and studying Elements of AI on the University of Helsinki.
